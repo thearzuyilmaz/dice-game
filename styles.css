@@ -18,13 +18,13 @@ h1 {
   margin: 30px;
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
-  font-size: 8rem;
-  color: #4ECCA3;
+  font-size: 4rem;
+  color: #C4F67F;
 }
 
 p {
   font-size: 2rem;
-  color: #4ECCA3;
+  color: #C4F67F;
   font-family: 'Indie Flower', cursive;
 }
 
@@ -37,5 +37,19 @@ footer {
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
+  letter-spacing: 3px;
+
+}
+
+button {
+  margin-top: 40px; /* Adjust the value to your preference */
+  border-radius: 8px;
+  padding: 10px 20px;
+  font-size: 20px;
+  cursor: pointer;
+  border: none;
+  background-color: #1C1E33;
+  font-weight: 600;
+  color: #C4F67F;
 
 }
