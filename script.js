@@ -19,7 +19,10 @@ function dicing() {
 
 }
 
-window.onload = dicing;
+// window.onload = dicing;
+// Trigger the dicing function when clicked
+document.querySelector("button").addEventListener("click", dicing);
+
 
 
 
